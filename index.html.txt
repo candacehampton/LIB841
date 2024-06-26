@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> <b>Welcome to my corner of the world!</b> </title>
+	</head>
+	<body>
+		<h1> A little about me: </h1>
+		
+			<p> My name is Candace and I'm so glad to meet you all. I am taking classes at <a href="https://www.eku.edu/">EKU</a>  </p>
+			
+		
+		
+		<h2> Purpose of my page </h2>
+		
+			<p> I guess you are wondering why do I need <I>my own page</I>  I am learning to create websites from HTML editors, so this is great practice for me. <p>
+		
+		<BR>   </BR>
+		
+		<STRONG> <EM>THANK YOU FOR VISITING ME</EM> </STRONG>
+		
+		
+	</body>
+</html>
+
+
+ 

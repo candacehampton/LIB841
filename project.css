@@ -1,0 +1,65 @@
+h1{color:#b19cd9;}
+
+head A HREF{color:white; font-size:25px;}
+
+body {background-color:teal;
+border-right:5px pink solid;
+border-left:5px pink solid;
+border-top:5px pink solid; 
+border-bottom:5px pink solid;}
+
+h2{color:#b19cd9;}
+
+EM{color:Pink;
+font-family:"Comic Sans MS",cursive,sans-serif;
+font-size:20px;}
+
+p{  color:white;
+	font-size:30px;
+}
+
+ nav {background-color: pink;}
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 25%; /* Ensure each cell takes an equal share of the table width */
+            text-align: center;
+            padding: 14px 0; /* Adjust padding to make clickable area larger */
+        }
+        nav a {
+            display: line;
+            color: teal;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: #111;}
+
+table {
+	width: 600px;
+}
+
+th {
+	text-align: left;
+}
+
+table, th, td {
+	border: 1px solid #000;
+}
+
+th, td {
+	color: white;
+}
+
+ul { color: white;
+	font-size: 25px}
+	
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto; 
+		width: 50%; 
+		
+  
